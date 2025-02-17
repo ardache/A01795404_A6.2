@@ -1,0 +1,36 @@
+{
+    "hotels": [
+        {
+            "name": "Hotel Pucon",
+            "location": "Chile",
+            "rooms": 10,
+            "available_rooms": 8
+        },
+        {
+            "name": "Hotel Ankor Wat",
+            "location": "Cambodia",
+            "rooms": 20,
+            "available_rooms": 18
+        }
+    ],
+    "customers": [
+        {
+            "name": "Pryha Terima",
+            "email": "pryha@hotmail.cb"
+        },
+        {
+            "name": "Simone Fagnani",
+            "email": "simonef@gmail.it"
+        }
+    ],
+    "reservations": [
+        {
+            "customer": "Simone Fagnani",
+            "hotel": "Hotel Montreal"
+        },
+        {
+            "customer": "Pryha Terima",
+            "hotel": "Hotel Ankor Wat"
+        }
+    ]
+}

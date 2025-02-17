@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Hotel Pucon",
+        "location": "Chile",
+        "rooms": 10,
+        "available_rooms": 8
+    },
+    {
+        "name": "Hotel Ankor Wat",
+        "location": "Cambodia",
+        "rooms": 20,
+        "available_rooms": 18
+    }
+]
